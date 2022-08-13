@@ -3,5 +3,4 @@ Digital Talent Scholarship Professional Academy (PROA) Data Scientist Batch 2
 
 Conducted by KOMINFO RI x DQLab
 
-Project :
 Project Loan Classification Analysis for UMKM Sector. 
